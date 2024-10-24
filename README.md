@@ -21,7 +21,7 @@ Lorem ipsum  dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auc
 | Machine Learning   | M002B4KY1088 | [Dhafin Ghalib Luqman Hakim](https://github.com/DhafinGhalibLH)      | Institut Teknologi Bandung                                |
 | Machine Learning   | M117B4KY3925 | [Rizky Andika Apriansyah](https://github.com/Milkiiy)      | Institut Teknologi Nasional Bandung                             |
 | Cloud Computing    | C006B4KY1356 | [Faiq Radiansyah](https://github.com/Toru45)      | Universitas Brawijaya                        |
-| Cloud Computing    | C193B4KY3692 | [Rangga Saputra](hhttps://github.com/I4MRangga)           | Universitas Bina Sarana Informatika |
+| Cloud Computing    | C193B4KY3692 | [Rangga Saputra](https://github.com/I4MRangga)           | Universitas Bina Sarana Informatika |
 | Mobile Development | A193B4KY2889 | [Muhammad Helmy](https://github.com/muhhlmy])            | Universitas Bina Sarana Informatika                        |
 | Mobile Development | A263B4KY3783 | [Reyyan](https://github.com/Rabsxd) | Universitas Muhammadiyah Purwokerto                 |
 
